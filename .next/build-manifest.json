@@ -1,0 +1,44 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-11c8eba6a84e3fddec04.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/fY23JVcKnNXWUq4XVhBe_/_buildManifest.js",
+    "static/fY23JVcKnNXWUq4XVhBe_/_ssgManifest.js"
+  ],
+  "pages": {
+    "/": [
+      "static/chunks/main-3b2c4af7ee14fea01ffe.js",
+      "static/chunks/webpack-e067438c4cf4ef2ef178.js",
+      "static/chunks/framework.fcef98db13e2318579fb.js",
+      "static/chunks/commons.65db85aa1f84ff9c0177.js",
+      "static/chunks/18925710f697fe2c95980503f83cfccf46d9492b.dd8e7c5bface8a20df2b.js",
+      "static/chunks/pages/index-67e0391bf52901f641c1.js"
+    ],
+    "/_app": [
+      "static/chunks/main-3b2c4af7ee14fea01ffe.js",
+      "static/chunks/webpack-e067438c4cf4ef2ef178.js",
+      "static/chunks/framework.fcef98db13e2318579fb.js",
+      "static/chunks/commons.65db85aa1f84ff9c0177.js",
+      "static/chunks/pages/_app-b608d4c51da3b47ce1a8.js"
+    ],
+    "/_error": [
+      "static/chunks/main-3b2c4af7ee14fea01ffe.js",
+      "static/chunks/webpack-e067438c4cf4ef2ef178.js",
+      "static/chunks/framework.fcef98db13e2318579fb.js",
+      "static/chunks/commons.65db85aa1f84ff9c0177.js",
+      "static/chunks/pages/_error-4c0e59626af2fe2052a1.js"
+    ],
+    "/aboutSpaceX": [
+      "static/chunks/main-3b2c4af7ee14fea01ffe.js",
+      "static/chunks/webpack-e067438c4cf4ef2ef178.js",
+      "static/chunks/framework.fcef98db13e2318579fb.js",
+      "static/chunks/commons.65db85aa1f84ff9c0177.js",
+      "static/chunks/18925710f697fe2c95980503f83cfccf46d9492b.dd8e7c5bface8a20df2b.js",
+      "static/chunks/pages/aboutSpaceX-aa58ff686c9b456263e5.js"
+    ]
+  },
+  "ampFirstPages": []
+}

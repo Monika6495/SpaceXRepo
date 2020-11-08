@@ -1,0 +1,23 @@
+{
+  "name": "spacex_sapient",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export":"next export"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "isomorphic-unfetch": "^3.1.0",
+    "next": "^10.0.0",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.4.0",
+    "react-dom": "^17.0.1",
+    "run-exported": "^1.0.1"
+  }
+}
